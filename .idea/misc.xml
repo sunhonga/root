@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../springboot/spring-boot-second/order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/../springboot/spring-boot-second/repo-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../springboot/srping-boot-first/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/spring-boot-spi/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/myformat-springboot-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/spring-boot-second/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/spring-boot-dubbo/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/spring-boot-dubbo/spring-boot-dubbo-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/spring-boot-dubbo/spring-boot-dubbo-helloservice-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/spring-boot-second/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot/spring-boot-second/repo-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

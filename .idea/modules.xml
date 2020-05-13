@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-second/dubbo-order-service/dubbo-order-service.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-second/dubbo-order-service/dubbo-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-second/dubbo-pay-service/dubbo-pay-api/dubbo-pay-api.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-second/dubbo-pay-service/dubbo-pay-api/dubbo-pay-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-second/dubbo-pay-service/dubbo-pay-provider/dubbo-pay-provider.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-second/dubbo-pay-service/dubbo-pay-provider/dubbo-pay-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-second/dubbo-pay-service/dubbo-pay-service.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-second/dubbo-pay-service/dubbo-pay-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/myformat-springboot-starter/myformat-springboot-starter.iml" filepath="$PROJECT_DIR$/../springboot/myformat-springboot-starter/myformat-springboot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-second/order-service/order-service.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-second/order-service/order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-second/repo-service/repo-service.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-second/repo-service/repo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-dubbo/spring-boot-dubbo.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-dubbo/spring-boot-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-dubbo/spring-boot-dubbo-helloservice-api/spring-boot-dubbo-helloservice-api.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-dubbo/spring-boot-dubbo-helloservice-api/spring-boot-dubbo-helloservice-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-dubbo/spring-boot-dubbo-helloservice-provider/spring-boot-dubbo-helloservice-provider.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-dubbo/spring-boot-dubbo-helloservice-provider/spring-boot-dubbo-helloservice-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-dubbo/spring-boot-dubbo-web/spring-boot-dubbo-web.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-dubbo/spring-boot-dubbo-web/spring-boot-dubbo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-second/spring-boot-second.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-second/spring-boot-second.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-spi/spring-boot-spi.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-spi/spring-boot-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/srping-boot-first/srping-boot-first.iml" filepath="$PROJECT_DIR$/../springboot/srping-boot-first/srping-boot-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot/spring-boot-second/zk-curator/zk-curator.iml" filepath="$PROJECT_DIR$/../springboot/spring-boot-second/zk-curator/zk-curator.iml" />
+    </modules>
+  </component>
+</project>
